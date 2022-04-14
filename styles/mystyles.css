@@ -1,0 +1,99 @@
+/*this will be applied to the about/index pages*/
+/*overwritten styles*/
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-left: 10px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+.centeralign{
+    text-align: center;
+    font-size: large;
+}
+.centeralign1{
+    text-align: center;
+    font-size: large;
+    padding-bottom: 40px;
+}
+li{
+    padding-bottom:10px;
+}
+.buttonoverwrite{
+    width: 100%;
+    left: 0;
+    position: relative;
+    bottom: -2rem;
+    ;
+}
+.backgroundimgoverwrite{
+    color: rgb(37, 14, 15);
+    text-align: center;
+    font-size: 40px;
+    padding-right: 60px;
+    padding-left: 60px;
+}
+.backgroundimgoverwrite2{
+    color: rgb(37, 14, 15);
+    text-align: center;
+    font-size: 65px;
+}
+.headingoverwrite{
+    color: rgb(37, 14, 15);
+    margin-bottom: 1rem !important;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.navpageoverwrite{
+    font-size: large;
+    text-align: center;
+    color: white;
+    margin-bottom: 1rem !important;
+}
+a{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:rgb(37, 14, 15);
+    font-size: large;
+    
+}
+a:hover {
+    background-color: #e6ccff;
+}
+.custom2{
+    color: cornflowerblue;
+}
+.intro{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.paddingSpace{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.imgpadding{
+    padding-bottom: 10px;
+}
+
+/*This is to space out the sections on my index page*/
+.paddingbox{
+    padding-top: 600px;
+}
+/*backgrounds*/
+.backgroundimg{
+    background-image: none;
+}
+body {
+    margin: 0;
+}
+.workingfooter{
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+/* HEADER AS A FOOTER LETS TRY IT */
+.headcenter{
+    text-align: center;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    color: rgb(58, 23, 9);
+}
+.footerstyles{
+    color: #e6ccff;
+}

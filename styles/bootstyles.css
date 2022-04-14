@@ -1,0 +1,57 @@
+body{
+    background-color:#e6ccff;
+}
+.headCenter{
+    text-align: center;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    color: saddlebrown;
+}
+.custom1{
+    text-decoration: none;
+}
+
+.TabLeft{
+    padding-left: 100px;
+    padding-right: 1000px;
+}
+a{
+    color: saddlebrown;
+}
+a:hover{
+    background-color: rgb(252, 199, 243);
+}
+.footer{
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: #e6ccff;
+    background-color:saddlebrown ;
+    
+}
+.footertext{
+    text-align: center;
+    color: saddlebrown;
+    font-weight: bold ;
+    padding-top: 30px;
+}
+.linktext{
+    text-align: center;
+    color: saddlebrown;
+    font-weight: bold ;
+    padding-top: 10px;
+}
+.centeralign{
+    text-align: center;
+    font-size: large;
+}
+.custom1{
+    text-align: center;
+    font-weight: bold;
+    color: saddlebrown;
+    font-size: medium;
+}
+.custom2{
+    color: rgb(145, 58, 153);
+    font-size: x-large;
+}
